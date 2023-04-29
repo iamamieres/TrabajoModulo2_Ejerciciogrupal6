@@ -5,7 +5,8 @@ $(document).ready(function () {
             "zeroRecords": "No se encontraron registros",
             "info": "Mostrando página _PAGE_ de _PAGES_",
             "infoEmpty": "No hay registros disponibles",
-            "infoFiltered": "(filtrado desde _MAX_ registros totales)"
+            "infoFiltered": "(filtrado desde _MAX_ registros totales)",
+            "search": "Buscar"
         }
     });
 })
