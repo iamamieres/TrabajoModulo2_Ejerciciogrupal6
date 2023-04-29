@@ -6,7 +6,11 @@ $(document).ready(function () {
             "info": "Mostrando página _PAGE_ de _PAGES_",
             "infoEmpty": "No hay registros disponibles",
             "infoFiltered": "(filtrado desde _MAX_ registros totales)",
-            "search": "Buscar"
+            "search" : 'Buscar',
+            "paginate": {
+                "previous": "Anterior",
+                "next" : "Siguiente"
+              }
         }
     });
 })
